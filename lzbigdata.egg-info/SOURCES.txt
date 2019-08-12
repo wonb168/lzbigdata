@@ -1,0 +1,10 @@
+README.md
+setup.py
+bigdata/__init__.py
+bigdata/bigdata.py
+lzbigdata.egg-info/PKG-INFO
+lzbigdata.egg-info/SOURCES.txt
+lzbigdata.egg-info/dependency_links.txt
+lzbigdata.egg-info/entry_points.txt
+lzbigdata.egg-info/top_level.txt
+lzbigdata.egg-info/zip-safe

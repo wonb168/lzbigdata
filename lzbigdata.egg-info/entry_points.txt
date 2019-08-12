@@ -1,0 +1,3 @@
+[console_scripts]
+bigdata = bigdata:export_excel
+
